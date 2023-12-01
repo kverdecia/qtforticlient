@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=QtFortiClient
+Comment=Simple Qt application to execute openforticlient.
+Path=/opt/qtforticlient
+Exec=/opt/qtforticlient/qtforticlient
+Icon=qtforticlient

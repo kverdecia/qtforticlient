@@ -10,6 +10,7 @@ rich = "*"
 pyinstaller = "*"
 
 [dev-packages]
+invoke = "*"
 
 [requires]
 python_version = "3.11"
