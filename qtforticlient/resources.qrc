@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC>
+  <qresource prefix="icons">
+    <file alias="connect.png">resources/plug-connect.png</file>
+    <file alias="disconnect.png">resources/plug-disconnect.png</file>
+    <file alias="shield.png">resources/shield.png</file>
+    <file alias="bars.svg">resources/bars.svg</file>
+    <file alias="vpn-connected.svg">resources/vpn-connected.svg</file>
+    <file alias="vpn-disconnected.svg">resources/vpn-disconnected.svg</file>
+    <file alias="vpn-default-status.svg">resources/vpn-default-status.svg</file>
+    <file alias="vpn-error-status.svg">resources/vpn-error-status.svg</file>
+    <file alias="vpn-connected-status.svg">resources/vpn-connected-status.svg</file>
+    <file alias="appicon.svg">resources/appicon.svg</file>
+  </qresource>
+</RCC>

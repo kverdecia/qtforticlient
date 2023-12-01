@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 128 128" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <g>
+    <path fill="#ff0000" fill-rule="evenodd" d="M23.946 30.763A10 10 0 0 0 18 39.905v18.538c0 26.611 18.192 49.774 44.046 56.08a8.225 8.225 0 0 0 3.908 0C91.808 108.217 110 85.054 110 58.443V39.905a10 10 0 0 0-5.946-9.142l-36-15.965a10 10 0 0 0-8.108 0zM74 56a9.996 9.996 0 0 1-5 8.662V76a5 5 0 0 1-10 0V64.662A9.996 9.996 0 0 1 54 56c0-5.523 4.477-10 10-10s10 4.477 10 10z" clip-rule="evenodd" opacity="1" data-original="#000000"/>
+  </g>
+</svg>
